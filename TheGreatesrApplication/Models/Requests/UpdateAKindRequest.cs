@@ -2,7 +2,7 @@
 {
     public class UpdateAKindRequest
     {
-        public int AnimalKindlId { get; set; }
+        public int AnimalKindId { get; set; }
         public string? Kind { get; set; }
     }
 }
